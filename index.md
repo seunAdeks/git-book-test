@@ -32,10 +32,12 @@ Brown the meat: Add ground beef to the skillet, breaking it up with a spoon. Coo
 
 Add seasoning: Stir in chili powder, cumin, paprika, cayenne pepper, salt, and pepper. Mix well to coat the meat.
 
-Simmer: Add water and simmer for 5 minutes until the mixture thickens slightly.
+Simmer: Add water and simmer for 5 minutes until the mixture thickens slightly. It may take more time then planned. make sure to keep a look out. 
 
 Warm shells: Heat taco shells according to package directions (typically in the oven at 350°F for 5 minutes).
 
 Assemble tacos: Fill each shell with the seasoned meat and top with lettuce, tomatoes, cheese, sour cream, and salsa.
 
 **Serve**: Serve immediately while warm. Makes about 8-10 tacos.
+
+I usually follow [this recipe](https://feelgoodfoodie.net/recipe/ground-beef-tacos-napa-cabbage-guacamole/)
